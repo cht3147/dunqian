@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dunqian</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="channel_name">頻道名稱</string>
+    <string name="channel_description">頻道說明</string>
+</resources>
